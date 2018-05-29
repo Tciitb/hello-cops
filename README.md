@@ -1,3 +1,3 @@
 # hello-cops
-First step to github
+First step to gitHUB
 Learning Github
